@@ -1,4 +1,5 @@
-fruehwald-dissertation-public
+Josef Fruehwald's Dissertation Repository
 =============================
 
-Public Repository for Josef Fruehwald&#39;s dissertation
+This is a public depository for my dissertation. I'll be storing code, data (when possible) and related papers and presentations here.
+
